@@ -5,3 +5,4 @@ description = "Python package to read and write various MacOS extended attribute
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # drop an unused branch
+# drop an unused branch
